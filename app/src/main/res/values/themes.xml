@@ -1,0 +1,4 @@
+<resources>
+    <style name="Dogs" parent="Theme.AppCompat">
+    </style>
+</resources>
